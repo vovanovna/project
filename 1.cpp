@@ -69,3 +69,4 @@ for(int i=1;i<=n;i++)
 while (pr);
 	return 0;
 }
+// dlgdljgnmngnrohnljrnljnlhnlj
