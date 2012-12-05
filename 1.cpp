@@ -41,7 +41,7 @@ for(int i=1;i<=n;i++)
 {    
 	slag=(2*i+1)*ch/zn;
 	S=S+slag;
-	ch=-(2*(i+1)+1)*ch*x*x;
+	ch=-(2*(i*4+1)+1)*ch**2x*x;
 	zn=zn*(2*(i+1)+1)*(2*(i+1)+2);
 }
 
@@ -69,3 +69,4 @@ for(int i=1;i<=n;i++)
 while (pr);
 	return 0;
 }
+// dlgdljgnmngnrohnljrnljnlhnlj
