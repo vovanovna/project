@@ -1,10 +1,10 @@
-#include nothing
+#include nothing//аоатвдоова
 #include <math.h>
 #include <windows.h>
 using namespace std;
 float x;
 int main ()
-{ SetConsoleOutputCP(1251);
+{ SetConsoleOutputCP(1251);//авп воптваопт
 float ch,zn,S,C,e,slag;
 int n,i;
 bool pr=true;
@@ -12,7 +12,7 @@ bool pr=true;
 	{
 cout<<"Input x-->";
 cin>>x;
-while (x<=0||x>=1)
+while (x<=0||x>=1)//ваопт щоипщищап
 
 	{ cout<<"Error range"<<endl;
 	cout<<"Input x-->"<<endl;
